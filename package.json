@@ -1,0 +1,24 @@
+{
+  "name": "aplikasi-kasir-ci",
+  "version": "1.0.0",
+  "description": "Aplikasi Kasir &amp; Perhitungan Diskon Sederhana untuk Tugas Praktik Pipeline CI - Mata Kuliah Rekayasa Perangkat Lunak (RPL).",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazwaalfh05/aplikasi-kasir-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nazwaalfh05/aplikasi-kasir-ci/issues"
+  },
+  "homepage": "https://github.com/nazwaalfh05/aplikasi-kasir-ci#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
